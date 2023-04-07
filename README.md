@@ -6,6 +6,7 @@ Handwritten digit classification is a machine learning project aimed at building
 # Prerequisites
 Install the necessary libraries for this project using this command:
 
+<img width="665" alt="Screenshot 2023-04-07 at 11 03 08 PM" src="https://user-images.githubusercontent.com/74640208/230652324-59978e34-819e-4da9-b290-7da044e519b8.png">
 
 
 
